@@ -1,0 +1,4 @@
+Windows texting application
+works over the same network
+The application has Encoding and Decoding
+You need to type IP address and port correctly for the application to work
